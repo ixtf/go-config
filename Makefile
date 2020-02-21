@@ -1,6 +1,6 @@
 language: go
 
-version=1.0
+version=1.0.0
 docker_name=ixtf/go-config
 #docker_name=ixtf/go-config:$(version)
 
