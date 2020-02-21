@@ -10,7 +10,7 @@ version: "3.2"
 
 services:
   go-config:
-    image: ixtf/go-config:1.0
+    image: ixtf/go-config
     restart: always
     volumes:
       - /data/mes-9200/auto/config.yml:/config.yml
